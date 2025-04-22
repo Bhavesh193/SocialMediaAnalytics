@@ -1,0 +1,6 @@
+review_id,customer_name,review_text,rating,timestamp
+1,John Doe,"Love the camera quality, but the battery drains fast.",4,2024-03-20
+2,Jane Smith,Great performance overall! Would like more color options.,5,2024-03-21
+3,Emily Shaw,"App crashes sometimes, needs urgent fix.",2,2024-03-22
+4,Raj Patel,Excellent value for money. Sound quality is good.,4,2024-03-23
+5,Sara Kim,Didn't meet my expectations. Screen flickers.,2,2024-03-24
